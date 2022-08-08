@@ -1,2 +1,2 @@
-version 1
-some data
+version 2
+new some data
