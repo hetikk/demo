@@ -1,3 +1,2 @@
-version 3
-new some data
-new line
+version 4
+remove all data
